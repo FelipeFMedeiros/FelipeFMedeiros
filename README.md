@@ -1,4 +1,5 @@
-### 👋 Olá DEVs! Me chamo Felipe e estou atualmente estudando javascript e aprimorando cada vez mais minhas habilidaes em front-end. 
+### 👋 Hello DEVs! My name is Felipe and I'm currently studying javascript and constantly improving my front-end skills. 
+𝐏𝐓𝐛𝐫 𝐄𝐍 𝐄𝐒
 
 ##
 
