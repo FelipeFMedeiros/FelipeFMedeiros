@@ -16,3 +16,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Felipe-PIC" height="150" width="150" style="border-radius:50%;" src="https://img001.prntscr.com/file/img001/GAt0U55mSoy7x4aY3_6JsA.png">
 </div>
+  
+<div><br>
+  <a href="https://www.linkedin.com/in/felipe-medeiros-487247268/">
+  <img align="left" alt="Website" height="40" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</div>
