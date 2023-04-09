@@ -1,4 +1,4 @@
-### 👋 Hello DEVs! My name is Felipe and I'm currently studying javascript and constantly improving my front-end skills. 
+### 👋 Hello DEVs! My name is Felipe and I'm currently studying javascript and react.js and constantly improving my front-end skills. 
 𝐏𝐓𝐛𝐫 𝐄𝐍 𝐄𝐒
 
 ##
