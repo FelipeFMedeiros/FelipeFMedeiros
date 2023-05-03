@@ -21,6 +21,4 @@
 <div><br>
   <a href="https://www.linkedin.com/in/felipe-medeiros-487247268/">
   <img align="left" alt="Website " height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</div><br><br>
-  
- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/felipefmedeiros)](https://github.com/felipefmedeiros)
+</div>
