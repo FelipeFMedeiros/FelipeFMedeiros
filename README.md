@@ -1,7 +1,7 @@
 # 👨‍💻 FELIPE MEDEIROS | FULL-STACK DEVELOPER
 
 ## About Me 🚀
-<img align="right" alt="Felipe-PIC" height="150" width="150" style="border-radius:50%;" src="https://drive.google.com/uc?export=view&id=1EkWSQAZUxkT83kYiThJAng_qmzErBz7P">
+<img align="right" alt="Felipe-PIC" height="120" width="120" style="border-radius:50%;" src="https://github.com/user-attachments/assets/f78c8e00-1a91-4438-a773-9ddcc18eddf6">
 
 ```typescript
 const developer = {
