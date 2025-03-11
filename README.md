@@ -1,33 +1,61 @@
-### 👋 Hello DEVs! My name is Felipe and I'm studying to be a React Developer. I am currently looking to learn and improve my typescript, reactjs, nodejs and bootstrap5 skills. 
-𝐏𝐓𝐛𝐫 𝐄𝐍
+# 👨‍💻 FELIPE MEDEIROS | FULL-STACK DEVELOPER
 
-##
+## About Me 🚀
+<img align="right" alt="Felipe-PIC" height="150" width="150" style="border-radius:50%;" src="https://drive.google.com/uc?export=view&id=1EkWSQAZUxkT83kYiThJAng_qmzErBz7P">
 
-<div><br>
+```typescript
+const developer = {
+  name: "Felipe Medeiros",
+  role: "Full-Stack Developer",
+  education: "Computer Science Bachelor's Degree (In Progress)",
+  focusAreas: ["Front-end", "Back-end", "Web Development"],
+  currentlyLearning: ["Advanced TypeScript", "NextJS", "C#", ".NET Ecosystem"],
+  interests: ["Clean Code", "UI/UX Design", "Cloud Computing"]
+};
+```
+
+Hello DEVs! I'm a passionate Full-Stack Developer skilled in creating innovative applications across various platforms, with a primary focus on web solutions. I work seamlessly between front-end and back-end development, continuously striving to enhance my technical expertise and explore emerging technologies. My approach combines programming knowledge with creative problem-solving to deliver efficient, scalable, and user-focused software that meets diverse development needs.
+
+## Tech Stack 💻
+
+### Front-end
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Razor](https://img.shields.io/badge/-Razor-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+
+## GitHub Stats 📊
+
+<div align="center">
   <a href="https://github.com/FelipeFMedeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefmedeiros&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefmedeiros&layout=compact&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefmedeiros&show_icons=true&theme=github_dark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefmedeiros&layout=compact&theme=github_dark&hide_border=true"/>
+  </a>
 </div>
 
-## 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Reactjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-  
+## Contact 🌐
 
-  <img align="right" alt="Felipe-PIC" height="150" width="150" style="border-radius:50%;" src="https://img001.prntscr.com/file/img001/GAt0U55mSoy7x4aY3_6JsA.png">
-</div>
-  
-<div><br>
-  <a href="https://www.linkedin.com/in/felipe-medeiros-487247268/">
-  <img align="left" alt="Website " height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</div>
+<a href="https://www.linkedin.com/in/felipe-medeiros-487247268/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/felipef.medeiros/">
+  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
