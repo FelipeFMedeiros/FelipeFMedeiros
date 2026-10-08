@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="36" viewBox="0 0 126 36" role="img" aria-label="shadcn/ui">
+  <title>shadcn/ui</title>
+  <rect x="0.5" y="0.5" width="125" height="35" rx="6" fill="#161B22" stroke="#30363D"/>
+  <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" x="10" y="8" width="20" height="20" aria-hidden="true" fill="#E6EDF3"><title>shadcn/ui</title><path d="M22.219 11.784 11.784 22.219c-.407.407-.407 1.068 0 1.476.407.407 1.068.407 1.476 0L23.695 13.26c.407-.408.407-1.069 0-1.476-.408-.407-1.069-.407-1.476 0ZM20.132.305.305 20.132c-.407.407-.407 1.068 0 1.476.408.407 1.069.407 1.476 0L21.608 1.781c.407-.407.407-1.068 0-1.476-.408-.407-1.069-.407-1.476 0Z" /></svg>
+  <text x="38" y="23" fill="#E6EDF3" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="14">shadcn/ui</text>
+</svg>

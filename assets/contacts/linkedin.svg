@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="36" viewBox="0 0 118 36" role="img" aria-label="LinkedIn">
+  <title>LinkedIn</title>
+  <rect x="0.5" y="0.5" width="117" height="35" rx="6" fill="#161B22" stroke="#30363D"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="10" y="8" width="20" height="20" aria-hidden="true"><path fill="#0076b2" d="M116 3H12a8.91 8.91 0 00-9 8.8v104.42a8.91 8.91 0 009 8.78h104a8.93 8.93 0 009-8.81V11.77A8.93 8.93 0 00116 3z" /><path fill="#fff" d="M21.06 48.73h18.11V107H21.06zm9.06-29a10.5 10.5 0 11-10.5 10.49 10.5 10.5 0 0110.5-10.49M50.53 48.73h17.36v8h.24c2.42-4.58 8.32-9.41 17.13-9.41C103.6 47.28 107 59.35 107 75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87 7.36-10.87 15V107H50.53z" /></svg>
+  <text x="38" y="23" fill="#E6EDF3" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="14">LinkedIn</text>
+</svg>
